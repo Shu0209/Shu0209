@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Shubham Bhandari 👋</h1>
 
 <p align="center">
   🤖 Aspiring AI/ML Engineer &nbsp;|&nbsp; 🐍 Python Enthusiast &nbsp;|&nbsp; 📚 Lifelong Learner
