@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-* 🤖 AI/ML Engineer interested in **LLMs, RAG, and AI Agents**
+* 🤖 AI/ML Engineer interested in **Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, RAG, and AI Agents**
 * 🧠 Working with **LangChain and LangGraph**
 * 🛠️ Building **AI-powered applications and production RAG systems**
 * 🐍 Mainly working with **Python**
