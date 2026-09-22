@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 * 🤖 AI/ML Engineer interested in **Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, RAG, and AI Agents**
-* 🧠 Working with **LangChain and LangGraph**
+* 🧠 Working with **Scikit-learn, TensorFlow, LangChain and LangGraph**
 * 🛠️ Building **AI-powered applications and production RAG systems**
 * 🐍 Mainly working with **Python**
 * ☁️ Exploring **AWS, Docker, and AI deployment**
