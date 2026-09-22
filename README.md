@@ -6,14 +6,12 @@
   📚 Lifelong Learner
 </p>
 
-
-
 ---
 
 ## 🙋‍♂️ About Me
 
 * 🌱 Currently learning **Machine Learning, Deep Learning, NLP, and Generative AI**
-* 🔭 Exploring **LLMs, RAG, LangChain, and AI-powered applications**
+* 🔭 Exploring **LLMs, RAG, LangChain, LangGraph, and AI-powered applications**
 * 🧠 Interested in building **intelligent and production-ready AI systems**
 * 💼 Open to **internships and entry-level opportunities** in AI/ML
 * 🎯 Goal: **Build AI solutions that solve real-world problems**
@@ -26,7 +24,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ### 🤖 AI / ML & Deep Learning
@@ -41,6 +39,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/RAG-6E57E0?style=for-the-badge&logo=bookstack&logoColor=white" alt="RAG"/>
 </p>
 
 ### 📊 Data & Analysis
@@ -58,7 +58,8 @@
 * 🧠 **Deep Learning**
 * 💬 **Natural Language Processing (NLP)**
 * 👁️ **Computer Vision**
-* 🔗 **LangChain & LLM Applications**
+* 🔗 **LLM Applications & LangChain**
+* 🕸️ **LangGraph & AI Agent Workflows**
 * 📚 **Retrieval-Augmented Generation (RAG)**
 * ⚙️ **AI Agents & Workflow Orchestration**
 
@@ -75,16 +76,18 @@ NLP & Transformers
       ↓
 LLMs & Generative AI
       ↓
+LangChain & LangGraph
+      ↓
 RAG & Vector Databases
       ↓
-AI Agents & Production Applications
+AI Agents & Production AI Applications
 ```
 
 ---
 
 ## 🎯 Career Goal
 
-> Build scalable, intelligent AI systems that combine **Machine Learning, LLMs, RAG, and modern AI application development** to solve real-world problems.
+> Build scalable and intelligent AI systems using **Machine Learning, LLMs, RAG, LangChain, LangGraph, and modern AI application development** to solve real-world problems.
 
 ---
 
